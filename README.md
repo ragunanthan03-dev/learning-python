@@ -33,4 +33,4 @@ This repository contains my Python practice programs and exercises as I learn th
 
 ---
 
-**Author:** Ragunanthan
+**Author:** Ragunanthan 🧑🏻‍💻
