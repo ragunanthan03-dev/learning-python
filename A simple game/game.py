@@ -10,7 +10,7 @@ while running:
     print(f"Computer : {computer}")
     if person == computer:
         print("Tie")
-    if person =="Rock" and computer =="Scissors":
+    elif person =="Rock" and computer =="Scissors":
         print("You Win")
     elif person =="Scissors" and computer =='Rock':
          print("You Win")
@@ -20,9 +20,4 @@ while running:
         print("You Lose")
     if not input('Play again y/n:').lower() == "y":
         running=False
-
-
-
-
-    
-   
+        print("Thanks for playing the game")
