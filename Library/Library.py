@@ -7,7 +7,7 @@ Develop a Library Management System using functions, lists.
 """
 library=[]
 issued=[]
-def addbook():
+def add_book():
     n=int(input("Enter the number of books: "))
     for i in range(n):
         book=input("Enter the book name: ")
@@ -23,7 +23,7 @@ def display_books():
             print(book)
     print()
 
-def searchbook():
+def search_book():
     book=input("Enter the book name: ")
     if book in library:
         print("Book found successfully")
@@ -60,11 +60,11 @@ while True:
     print("--------------------------------")
     choice=int(input("Enter your choice: "))
     if choice == 1:
-        addbook()
+        add_book()
     elif choice == 2:
         display_books()
     elif choice == 3:
-        searchbook()
+        search_book()
     elif choice == 4:
         issue_book()
     elif choice == 5:
