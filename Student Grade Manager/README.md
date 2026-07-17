@@ -103,6 +103,6 @@ This project helped reinforce core Python programming concepts by building a men
 
 ## 👨‍💻 Author
 
-**Your Name**
+**RAGUNANTHAN**
 
 ⭐ If you found this project helpful, consider giving it a star!
