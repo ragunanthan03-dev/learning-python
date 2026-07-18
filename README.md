@@ -20,8 +20,8 @@ This repository contains my Python practice programs and exercises as I learn th
 
 ## 🛠️ Tools
 
-- Python 3
-- Visual Studio Code
+- Python 3.9.14
+- Visual Studio Code & Pycharm
 - Git & GitHub
 
 ## 🚀 Purpose
