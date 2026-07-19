@@ -29,7 +29,7 @@ def shipping_label(*args,**kwargs):
         print(f"{kwargs.get('country')}",end='.')
 
 #Sample input
-shipping_label("Mr.","Ragunanthan",
+shipping_label("Mr.","Ben",Tennyson,
                House_no=100,
                street="Boston street",
                state="Boston",
